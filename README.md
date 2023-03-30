@@ -1,6 +1,6 @@
-# 2023.1-Grupo04
+# Grupo 4 
+- Semestre 2023.1
 
-# 2023.1-Grupo04
 
 ## Equipe
 
