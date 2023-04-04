@@ -6,7 +6,7 @@
 
 | Foto                                                                                                                                                  | Nome             | Email                          | github                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------ | ------------------------------------------------------ |
-| <img alt = "img_Caetano" src="http://avatars.githubusercontent.com/u/22137470?v=4" width = "100"/>  | Caetano Santos | caeslucio+github@gmail.com@gmail.com         | [@caeslucio](https://github.com/caeslucio)           |
+| <img alt = "img_Caetano" src="http://avatars.githubusercontent.com/u/22137470?v=4" width = "100"/>  | Caetano Santos | caeslucio+github@gmail.com         | [@caeslucio](https://github.com/caeslucio)           |
 | <img alt = "img_Daniel" src="https://avatars.githubusercontent.com/u/95941136?v=4" width = "100"/> | Daniel dos Santos | sousadanielsb@gmail.com@gmail.com           | [@daniel-de-sousa](https://github.com/daniel-de-sousa) |
 | <img alt = "img_Guilherme" src="https://avatars.githubusercontent.com/u/104849205?v=4" width = "100"/>  | guilhermekishimoto | @gmail.com   | [@guilhermekishimoto](https://github.com/guilhermekishimoto) |
 | <img alt = "img_Carla" src="https://avatars.githubusercontent.com/u/86669458?v=4" width = "100"/>                                               | Carla de Araujo  | carlacarlaclementino@gmail.com          | [@ccarlaa](https://github.com/ccarlaa)                     |
