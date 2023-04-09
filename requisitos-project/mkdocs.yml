@@ -1,0 +1,6 @@
+site_name: Requisitos
+site_url: https://requisitos-grupo-04.com/
+
+nav:
+  - Home: index.md
+  - Atas: Atas/test.md
