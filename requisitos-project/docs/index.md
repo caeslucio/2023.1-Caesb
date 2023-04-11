@@ -15,3 +15,4 @@ Esse projeto é dedicado a disciplina de Requisitos de Software  da Universidade
 | <img alt = "img_Carla" src="https://avatars.githubusercontent.com/u/86669458?v=4" width = "100"/>                                               | Carla de Araujo  | carlacarlaclementino@gmail.com          | [@ccarlaa](https://github.com/ccarlaa)                     |
 | <img alt = "img_Paulo" src="https://avatars.githubusercontent.com/u/98675541?v=4" width = "100"/>     | Paulo VIctor     | paulovictor.fsousa11@yahoo.com.br | [@PauloVictorFS](https://github.com/PauloVictorFS)     |
 | <img alt = "img_Raquel" src="https://avatars.githubusercontent.com/u/81540491?v=4" width = "100"/>    | Raquel Eucaria      | raqueleucaria@gmail.com         | [@raqueleucaria](https://github.com/raqueleucaria)                 |
+
