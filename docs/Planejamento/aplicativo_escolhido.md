@@ -1,8 +1,8 @@
-# Aplicativo Escolhido:
+# Aplicativo Escolhido
 
-## Aplicativos analisados:
+## Aplicativos analisados
 
-Para a escolha do aplicativo, cada integrante montou uma Rich Picture relativa a uma das possíveis escolhas para o projeto. Sendo assim, Com base nisso o grupo se baseou e escolheu a que fosse de maior agrado. Dessa forma, abaixo será apresentado os critérios de escolha do aplicativo, o que foi escrito sobre o aplicativo escolhido de cada integrante, e além disso a  rich picture realizada por estes. na tabela a seguir é possível observar a escolha de cada integrante e o rich picture produzido.
+Para a escolha do aplicativo, cada integrante montou uma **Rich Picture** relativa a uma das possíveis escolhas para o projeto. Sendo assim, Com base nisso o grupo se baseou e escolheu a que fosse de maior agrado. Dessa forma, abaixo será apresentado os critérios de escolha do aplicativo, o que foi escrito sobre o aplicativo escolhido de cada integrante, e além disso a  rich picture realizada por estes. na tabela a seguir é possível observar a escolha de cada integrante e o rich picture produzido.
 
 | Nome                | Aplicativo            | Rich Picture     |
 | ------------------- | --------------------- | ---------------- |
@@ -24,7 +24,7 @@ Após a seleção individual de cada integrante, o grupo decidiu que o aplicativ
 
 
 
-## Caesb
+## **Caesb**
 
 
 
@@ -43,11 +43,12 @@ A paritr do momento que o usuário se conecta, também é possível ter acesso a
 * Entre outros.
 
 
-Segue abaixo a pagina do aplicativo na Play Store
+Segue abaixo a pagina do aplicativo na [Play Store](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile)
 ![play-store](../assets/planejamento/app-escolhido/play-store.png)
 
-| <img src="./../assets/planejamento/app-escolhido/print1.png" width = "200"/> | <img src="./../assets/planejamento/app-escolhido/print2.png" width = "200"/> | <img src="./../assets/planejamento/app-escolhido/print3.png" width = "200"/> | <img src="./../assets/planejamento/app-escolhido/print4.png" width = "200"/> | <img src="./../assets/planejamento/app-escolhido/print5.png" width = "200"/> | <img src="./../assets/planejamento/app-escolhido/print6.png" width = "200"/> |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+
+
+
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                         Autor                                          |               Revisor               |
