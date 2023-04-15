@@ -1,5 +1,4 @@
- Ata da primeira reunião
-
+# 1ª Reunião
 ## Introdução
 
 Essa ata  é da reunião que ocorreu no dia 09/04/2023 as 10:20, e foi a reunião introdutória da matéria de requisitos
