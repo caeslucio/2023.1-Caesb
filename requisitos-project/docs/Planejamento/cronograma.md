@@ -99,3 +99,8 @@
 | Forward From    | Teams (remoto) | 14/06 - 28/06              | Guilherme, Daniel e Carla        | -             | 28/06 - 01/07      | Pedro, Guilherme, Paulo e Raquel |
 | Gravação        | Teams (remoto) | 02/07                      | Carla                            | Todos         | 21/05              | Pedro                            |
 | Edição do vídeo | -              | 03/07 - 04/07              | Pedro                            | -             | 23/05              | Raquel                           |
+
+## Histórico de Versão
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| 15/04/2023 |        15/04/2023        |  1.0   | Criação do documento | [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS) |
