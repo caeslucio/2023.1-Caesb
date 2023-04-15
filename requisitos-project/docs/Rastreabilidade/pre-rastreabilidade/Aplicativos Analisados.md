@@ -102,6 +102,6 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. M
 Andrew Monk and Steve Howard. 1998. Methods & tools: the rich picture: a tool for reasoning about work context. interactions 5, 2 (March/April 1998), 21–30. 
 
 ## Histórico de Versão
-| Data  | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
-| :---: | :----------------------: | :----: | :-------: | :---: | :-----: |
-|       |                          |  1.0   | Criação           |       |         |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| 14/04/2023 |        15/04/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) | - |

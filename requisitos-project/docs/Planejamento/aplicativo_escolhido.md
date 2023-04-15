@@ -4,15 +4,15 @@
 
 Para a escolha do aplicativo, cada integrante montou uma Rich Picture relativa a uma das possíveis escolhas para o projeto. Sendo assim, Com base nisso o grupo se baseou e escolheu a que fosse de maior agrado. Dessa forma, abaixo será apresentado os critérios de escolha do aplicativo, o que foi escrito sobre o aplicativo escolhido de cada integrante, e além disso a  rich picture realizada por estes. na tabela a seguir é possível observar a escolha de cada integrante e o rich picture produzido.
 
-| Nome                | Aplicativo            | Rich Picture                                           |
-| ------------------- | --------------------- | ------------------------------------------------------ |
-| Caetano Santos      |                       | [Rich Picture]()  |
-| Carla de Araujo     | GitHub                | [Rich Picture](../assets/rastreabilidade/individual/richpicturecarla.png)      |
-| Daniel dos Santos   | CAESB Autoatendimento | [Rich Picture](images/rich-picture-lucas-gabriel.jpeg) |
-| Guilherme Kishimoto | Serasa                | [Rich Picture](images/rich-picture-nicolas.png)        |
-| Paulo VIctor        | LibreOffice Reader    | [Rich Picture](images/rich-picture-davi.jpeg)          |
-| Pedro Barbosa       | iLovePDF              | [Rich Picture](images/rich-picture-renan.jpeg)         |
-| Raquel Eucaria      | Acolha-se             | [Rich Picture](images/rich-picture-renan.jpeg)         |
+| Nome                | Aplicativo            | Rich Picture     |
+| ------------------- | --------------------- | ---------------- |
+| Caetano Santos      |                       | [Rich Picture]() |
+| Carla de Araujo     | GitHub                | [Rich Picture]() |
+| Daniel dos Santos   | CAESB Autoatendimento | [Rich Picture]() |
+| Guilherme Kishimoto | Serasa                | [Rich Picture]() |
+| Paulo VIctor        | LibreOffice Reader    | [Rich Picture]() |
+| Pedro Barbosa       | iLovePDF              | [Rich Picture]() |
+| Raquel Eucaria      | Acolha-se             | [Rich Picture]() |
 
 ## Aplicativo definido
 
@@ -48,3 +48,8 @@ Segue abaixo a pagina do aplicativo na Play Store
 
 | <img src="./../assets/planejamento/app-escolhido/print1.png" width = "200"/> | <img src="./../assets/planejamento/app-escolhido/print2.png" width = "200"/> | <img src="./../assets/planejamento/app-escolhido/print3.png" width = "200"/> | <img src="./../assets/planejamento/app-escolhido/print4.png" width = "200"/> | <img src="./../assets/planejamento/app-escolhido/print5.png" width = "200"/> | <img src="./../assets/planejamento/app-escolhido/print6.png" width = "200"/> |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+
+## Histórico de Versão
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                         Autor                                          |               Revisor               |
+| :--------: | :----------------------: | :----: | :------------------: | :------------------------------------------------------------------------------------: | :---------------------------------: |
+| 14/04/2023 |        15/04/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) | [Carla](https://github.com/ccarlaa) |
