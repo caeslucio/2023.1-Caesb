@@ -53,9 +53,13 @@ theme:
 nav:
   - Home: index.md
   - Atas:
-    - Atas/Reuniao 01.md
-    - Atas/Reuniao 02.md
-    - Atas/Reuniao 03.md  
+    - Atas/Reuniao01.md
+    - Atas/Reuniao02.md
+  - Planejamento: 
+    - Aplicativo escolhido: Planejamento/aplicativo_escolhido.md
+    - Metodologia: Planejamento/metodologias.md
+    - Ferramentas: Planejamento/ferramentas.md
+    - Cronograma: Planejamento/cronograma.md
   - Guia: 
     - Guia/Mkdocs.md
 
