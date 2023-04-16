@@ -1,14 +1,14 @@
 # Grupo 4 - Requisitos de Software
 
-<div align="center"><img src= "requisitos-project\docs\assets\imagens\logo-azul.png"/></div>
+<div align="center"><img src= "docs/assets/imagens/logo-azul.png"/></div>
 
-## Sobre:
+## Sobre
 
 
 Repositório destinado à disciplina de Requisitos de Software da Universidade de Brasília (UnB), lecionado pelo professor André Barros. Onde foi feita a análise dos requisitos do aplicativo Caesb, levando em consideração as suas funcionalidades, restrições, e qualidades. Neste documento está o armazenamento e a apresentação dos artefatos e processos desenvolvidos, conforme o aprendido na matéria.
 
 
-## Equipe:
+## Equipe
 
 | Foto                                                                                                                                                  | Nome             | Email                          | github                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------ | ------------------------------------------------------ |
