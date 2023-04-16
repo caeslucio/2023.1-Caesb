@@ -52,6 +52,9 @@ Rich Picture é um modelo informal com o objetivo de auxiliar a indentificação
 Então a seguir, se tem a primeira versão feita para o Rich Picture do aplicativo da CAESB.
 
 ![RP-V1](../assets/planejamento/app-escolhido/rich-pictureV1.png)
+<p align="center">
+    Figura 1: CAESB Autoatendimento Rich Picture - V.1 | Autor: Daniel dos Santos
+</p>
 
 Tendo em vista esa primira, foi realizada uma revisãa, sendo apontadas as seguintes características a serem consideradas para se realizar uma nova versão:
 
@@ -73,7 +76,7 @@ O objetivo desse artefato é revisar a versão 1 da Rich Picture.
 Diante disso se tem a nova versão atualziada do Rich Picture:
 ![RP-V2](../assets/planejamento/app-escolhido/rich-pictureV2.png)
 <p align="center">
-    CAESB Autoatendimento Rich Picture - V.2 | Autor: Daniel dos Santos
+    Figura 2: CAESB Autoatendimento Rich Picture - V.2 | Autor: Daniel dos Santos
 </p>
 
 |Legenda|   |   |   |   |   |
