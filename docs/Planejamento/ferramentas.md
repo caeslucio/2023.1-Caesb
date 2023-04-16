@@ -40,5 +40,5 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 14/04/2023 |        14/04/2023        |  1.0   | Adição das ferramentas do projeto  | [Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |
-| 16/04/2023 |        16/04/2023        |  2.0   | Adição de legenda da tabela | [Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |
+| 14/04/2023 |        14/04/2023        |  1.0   | Adição das ferramentas do projeto  | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
+| 16/04/2023 |        16/04/2023        |  2.0   | Adição de legenda da tabela | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
