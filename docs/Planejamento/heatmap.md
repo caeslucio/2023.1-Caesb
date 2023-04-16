@@ -1,4 +1,4 @@
-## Heatmap
+# Heatmap
 Um Heatmap, também conhecido como Mapa de Calor, é uma técnica de visualização de dados que utiliza uma variação de cores para representar a distribuição de valores em uma matriz ou tabela. Essa técnica é amplamente utilizada para analisar padrões e tendências em grandes conjuntos de dados. 
 Com isso, podemos em nosso trabalho por meio de um Heatmap verificar a disponibilidade para reuniões remotas e presenciais dos membros do grupo.
 
