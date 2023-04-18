@@ -26,6 +26,7 @@
 | Gravação                              | Teams (remoto) | 15/04                          | Daniel              | Todos             | 15/04                  | Pedro       |
 | Edição do vídeo                       | -              | 16/04                          | Pedro               | -             | 16/04                  | Caetano     |
 
+<p><center>Tabela 1: Entrega 1 (Fonte: autor, 2023).</center></p>
 
 ## 2ª Entrega
 
@@ -42,6 +43,8 @@
 | Gravação                                 | Teams (remoto) | 29/04                      | Paulo               | Todos         | 29/04              | Carla     |
 | Edição do vídeo                          | -              | 30/04                      | Carla               | -             | 30/04              | Caetano |
 
+<p><center>Tabela 2: Entrega 2 (Fonte: autor, 2023).</center></p>
+
 ## 3ª Entrega
 
 <h4>Modelagem de Requisitos</h4>
@@ -55,6 +58,8 @@
 | Gravação                  | Teams (remoto) | 14/05                      | Raquel            | Todos         | 14/05              | Guilherme    |
 | Edição do vídeo           | -              | 15/05 - 16/05              | Guilherme         | -             | 16/05              | Daniel |
 
+<p><center>Tabela 3: Entrega 3 (Fonte: autor, 2023).</center></p>
+
 ## 4ª Entrega 
 
 <h4>Modelagem de Requisitos</h4>
@@ -67,6 +72,8 @@
 | Gravação              | Teams (remoto) | 21/05                      | Caetano                  | Todos         | 21/05              | Paulo |
 | Edição do vídeo       | -              | 22/05 - 23/05              | Paulo                    | -             | 23/05              | Carla     |
 
+<p><center>Tabela 4: Entrega 4 (Fonte: autor, 2023).</center></p>
+
 ## 5ª Entrega (1ª Parte)
 
 <h4>Verificação e Validação</h4>
@@ -77,6 +84,8 @@
 | Verificação dos requisitos (entrega 2) | Teams (remoto) | 24/05 - 02/06              | Carla, Guilherme, Paulo e Raquel | -             | 03/06              | Caetano, Daniel e Pedro          |
 | Gravação                               | Teams (remoto) | 04/06                      | Carla                            | Todos         | 04/06              | Pedro                            |
 | Edição do vídeo                        | -              | 05/06 - 06/06              | Pedro                            | -             | 06/06              | Guilherme                           |
+
+<p><center>Tabela 5: Entrega 5.1 (Fonte: autor, 2023).</center></p>
 
 ## 5ª Entrega (2ª Parte)
 
@@ -89,6 +98,8 @@
 | Gravação                               | Teams (remoto) | 12/06                      | Daniel                               | Todos         | 12/06              | Raquel                               |
 | Edição do vídeo                        | -              | 13/06                      | Raquel                               | -             | 13/06              | Paulo                                |
 
+<p><center>Tabela 6: Entrega 5.2 (Fonte: autor, 2023).</center></p>
+
 ## 6ª Entrega
 
 <h6>Pós-rasteabilidade</h6>
@@ -99,6 +110,8 @@
 | Forward From    | Teams (remoto) | 14/06 - 28/06              | Guilherme, Daniel e Carla        | -             | 28/06 - 01/07      | Pedro, Guilherme, Paulo e Raquel |
 | Gravação        | Teams (remoto) | 02/07                      | Carla                            | Todos         | 21/05              | Pedro                            |
 | Edição do vídeo | -              | 03/07 - 04/07              | Pedro                            | -             | 23/05              | Raquel                           |
+
+<p><center>Tabela 7: Entrega 6 (Fonte: autor, 2023).</center></p>
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |

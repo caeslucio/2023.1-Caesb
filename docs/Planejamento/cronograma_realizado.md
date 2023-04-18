@@ -16,3 +16,5 @@
 | Metodologias                          | Teams (remoto) | 14/04 - 15/04              | Raquel e Paulo  | -             | 15/04              | Carla     |
 | Gravação                              | Teams (remoto) | 16/04                      | Daniel          | Todos         | 16/04              | Daniel    |
 | Edição do vídeo                       | Teams (remoto) | 16/04                      | Pedro           | -             | 16/04              | Caetano   |
+
+<p><center>[Autor: Carla A. C Ribeiro]</center></p>

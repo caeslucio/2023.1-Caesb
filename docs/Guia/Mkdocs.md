@@ -87,6 +87,12 @@ mkdocs gh-deploy
 
 Obs.: Esse comando criará uma branch "gh-deploy" para realizar o deploy.
 
+# Referências
+
+> MkDocs: <a>https://www.mkdocs.org/</a>
+
+> MkDocs Material: <a>https://squidfunk.github.io/mkdocs-material/</a>
+
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |

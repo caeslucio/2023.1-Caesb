@@ -23,18 +23,18 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 <p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023). </p>
 </div>
 
-## Bibliografia
+## Referências
 
-[1] Ferramenta GitHub, disponível no [link](https://github.com). <br/>
-[2] Ferramenta Telegram, disponível no [link](https://telegram.org). <br/>
-[3] Ferramenta Microsoft Teams, disponível no [link](https://teams.microsoft.com). <br/>
-[4] Ferramenta Visual Studio Code, disponível no [link](https://code.visualstudio.com). <br/>
-[5] Ferramenta Youtube, disponível no [link](https://youtube.com). <br/>
-[6] Ferramenta Lucid Chart, disponível no [link](https://lucidchart.com). <br/>
-[7] Ferramenta This Person Doesn't Exist, disponível no [link](https://thispersondoesnotexist.com/). <br/>
-[8] Ferramenta Google planilhas, disponível no [link](https://docs.google.com/sheets). <br/>
-[9] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 14 de abril de 2023. <br/>
-[10] Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/ferramentas/>. Acesso em: 14 de abril de 2023. <br/>
+> Ferramenta GitHub, disponível no [link](https://github.com). <br/>
+Ferramenta Telegram, disponível no [link](https://telegram.org). <br/>
+Ferramenta Microsoft Teams, disponível no [link](https://teams.microsoft.com). <br/>
+Ferramenta Visual Studio Code, disponível no [link](https://code.visualstudio.com). <br/>
+Ferramenta Youtube, disponível no [link](https://youtube.com). <br/>
+Ferramenta Lucid Chart, disponível no [link](https://lucidchart.com). <br/>
+Ferramenta This Person Doesn't Exist, disponível no [link](https://thispersondoesnotexist.com/). <br/>
+Ferramenta Google planilhas, disponível no [link](https://docs.google.com/sheets). <br/>
+Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.1-TikTok/ferramentas/>. Acesso em: 14 de abril de 2023. <br/>
+Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/ferramentas/>. Acesso em: 14 de abril de 2023. <br/>
 
 ## Histórico de Versão
 

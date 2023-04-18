@@ -4,20 +4,20 @@ Com isso, podemos em nosso trabalho por meio de um Heatmap verificar a disponibi
 
 
 ## Nossos Heatmaps
-> Os números representam a quantidade de membros disponível, quanto maior o número de membros livres em certo horário/dia, mais intensa a cor.
+Os números representam a quantidade de membros disponível, quanto maior o número de membros livres em certo horário/dia, mais intensa a cor.
 
 #### Disponibilidade para Reuniões Presenciais
 
 ![[heatmap-presencial]](../assets/planejamento/heatmap/heatmap-presencial.png)
-> Figura 1: Heatmap de disponibilidade para reuniões presenciais (Fonte: Autor, 2023).
+<p><center> Figura 1: Heatmap de disponibilidade para reuniões presenciais (Fonte: Autor, 2023).</center></p>
 
 #### Disponibilidade para Reuniões Remotas
 
 ![[heatmap-remoto]](../assets/planejamento/heatmap/heatmap-remoto.png)
-> Figura 2: Heatmap de disponibilidade para reuniões remotas (Fonte: Autor, 2023).
+<p><center> Figura 2: Heatmap de disponibilidade para reuniões remotas (Fonte: Autor, 2023).</center></p>
 
 ## Referências
-- The Complete Guide to Heatmaps. Disponível em: <https://www.hotjar.com/heatmaps/>. Acesso em: 15 de abril de 2023.
+> The Complete Guide to Heatmaps. Disponível no [link](https://www.hotjar.com/heatmaps). 
 
 
 ## Histórico de Versão

@@ -14,6 +14,8 @@ Para a escolha do aplicativo, cada integrante montou uma Rich Picture relativa a
 | Pedro Barbosa       | iLovePDF              | [Rich Picture]() |
 | Raquel Eucaria      | Acolha-se             | [Rich Picture]() |
 
+<p>Tabela 1: Aplicativos Avaliados por Membro. (Fonte: autores, 2023).</p>
+
 ## Aplicativo definido
 
 Após a seleção individual de cada integrante, o grupo decidiu que o aplicativo seria o da Caesb a partir dos seguintes critérios:
@@ -43,8 +45,15 @@ A paritr do momento que o usuário se conecta, também é possível ter acesso a
 * Entre outros.
 
 
-Segue abaixo a pagina do aplicativo na [Play Store](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile)
+Segue abaixo a pagina do aplicativo na [Play Store](https://play.google.com/store/apps/details?id=br.gov.df.caesb.mobile).
+
+
 ![play-store](../assets/planejamento/app-escolhido/play-store.png)
+
+<p align="center">
+    Figura 1: Aplicativo da CAESB. (Fonte: Autor, 2023).
+</p>
+
 
 ## Rich picture
 
@@ -53,7 +62,7 @@ Então a seguir, se tem a primeira versão feita para o Rich Picture do aplicati
 
 ![RP-V1](../assets/planejamento/app-escolhido/rich-pictureV1.png)
 <p align="center">
-    CAESB Autoatendimento Rich Picture - V.1 | Autor: Daniel dos Santos
+    Figura 2: CAESB Autoatendimento Rich Picture. (Fonte: Autor, 2023).
 </p>
 
 Tendo em vista esa primira, foi realizada uma revisãa, sendo apontadas as seguintes características a serem consideradas para se realizar uma nova versão:
@@ -76,13 +85,18 @@ O objetivo desse artefato é revisar a versão 1 da Rich Picture.
 Diante disso se tem a nova versão atualziada do Rich Picture:
 ![RP-V2](../assets/planejamento/app-escolhido/rich-pictureV2.png)
 <p align="center">
-    CAESB Autoatendimento Rich Picture - V.2 | Autor: Daniel dos Santos
+    Firgura 3: CAESB Autoatendimento Rich Picture. (Fonte: Autor, 2023).
 </p>
 
 |Legenda|   |   |   |   |   |
 |-------|---|---|---|---|---|
 |Atores|Banco de dados|Fronteira do Sistema|Operações|Servidor|Tabelas
 |![](./../assets/planejamento/app-escolhido/atores.jpg)|![](./../assets/planejamento/app-escolhido/BD.png) |![](./../assets/planejamento/app-escolhido/Fronteira.png)|![](./../assets/planejamento/app-escolhido/operacao.png)|![](./../assets/planejamento/app-escolhido/servidor.png)|![](./../assets/planejamento/app-escolhido/tabelas.png)|
+
+<p align="center">
+    Tabela 1: Legenda da Rich Picture. (Fonte: Autor, 2023).
+</p>
+
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                         Autor                                          |               Revisor               |

@@ -23,10 +23,9 @@ O Github é uma aplicação lançada em 2008 que tem por objetivo possibilitar a
 
 ![](../../assets/rastreabilidade/individual/richpicturecarla.png)
 
-GitHub Rich Picture | Autor: Carla de Araujo | [PDF]()
-
-
-
+<p align="center">
+    Figura 1: Rich Picture do Github. (Fonte: Carla A. C. Ribeiro, 2023).
+</p>
 
 **2. Serasa**
 
@@ -34,8 +33,9 @@ O aplicativo do Serasa é um aplicativo desenvolvido pelo governo, e foi criado 
 
 ![](../../assets/rastreabilidade/individual/richpictureguilherme.png)
 
-GitHub Rich Picture | Autor: Guilherme Kishimoto | [PDF]()
-
+<p align="center">
+    Figura 2: Rich Picture do Serasa. (Fonte: Guilherme Kishimoto, 2023).
+</p>
 
 **3. iLovePDF**
 
@@ -49,7 +49,9 @@ Sendo limitado seu uso, oferecendo
 
 ![](../../assets/rastreabilidade/individual/richpicturepedro.png)
 
-GitHub Rich Picture | Autor: Pedro Barbosa | [PDF]()
+<p align="center">
+    Figura 3: Rich Picture do iLovePDF. (Fonte: Pedro Barbosa, 2023).
+</p>
 
 **4. LibreOffice Reader**
 
@@ -57,8 +59,9 @@ O aplicativo do LibreOffice  é um software desenvolvido e conduzido pela comuni
 
 ![](../../assets/rastreabilidade/individual/richpicturepaulo.png)
 
-GitHub Rich Picture | Autor: Paulo Victor | [PDF]()
-
+<p align="center">
+    Figura 4: Rich Picture do LibreOffice. (Fonte: Paulo Victor, 2023).
+</p>
 
 
 **5. Acolha-se**
@@ -67,7 +70,9 @@ O aplicativo Acolha-se  é um software desenvolvido e conduzido por voluntários
 
 ![](../../assets/rastreabilidade/individual/richpictureraquel.png)
 
-GitHub Rich Picture | Autor: Raquel Eucaria | [PDF]()
+<p align="center">
+    Figura 5: Rich Picture do Acolha-se. (Fonte: Raquel Eucaria, 2023).
+</p>
 
 **6. CAESB Autoatendimento**
 
@@ -87,14 +92,16 @@ A paritr do momento que o usuário se conecta, também é possível ter acesso a
 
 ![](../../assets/rastreabilidade/individual/richpicturedaniel.png)
 
-GitHub Rich Picture | Autor: Daniel dos Santos | [PDF]()
+<p align="center">
+    Figura 6: Rich Picture da CAESB. (Fonte: Daniel dos Santos, 2023).
+</p>
 
 
 ## Referências
 
-SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
-Andrew Monk and Steve Howard. 1998. Methods & tools: the rich picture: a tool for reasoning about work context. interactions 5, 2 (March/April 1998), 21–30. 
+> Andrew Monk and Steve Howard. 1998. Methods & tools: the rich picture: a tool for reasoning about work context. interactions 5, 2 (March/April 1998), 21–30. 
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |

@@ -11,7 +11,7 @@ Essa ata  é da reunião que ocorreu no dia 16/04/2023 as 10:06, e foi a reuniã
 | Paulo Victor, Carla Araujo, Daniel dos Santos, Guilherme Keyti, Raquel Temoteo, Pedro de Oliveira, Caetano Santos  | 16/04/2023 |      10:06 - 11:16     |  Teams |
 
 <div style="text-align: center">
-<p> Tabela 1: Dados da reunião (Fonte: autor, 2023). </p>
+<p> Tabela 1: Dados da Reunião (Fonte: autor, 2023). </p>
 </div>
 
 

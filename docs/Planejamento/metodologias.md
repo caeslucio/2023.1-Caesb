@@ -44,6 +44,8 @@ A política de commit é essencial no desenvolvimento de software em equipe, poi
 |  "revert"          |  Reversões                     |  Reverte um commit anterior                                                                                |
 |  "initial"         |  Inicial                       |  Commit inicial                                                                                            |
 
+<p><center>Tabela 1: Tipos de commit. (Fonte: autor, 2023).</center></p>
+
 **Regras**
 * Os commits devem ser escritos em português, no gerúndio
 * Devem ser objetivos e possuírem títulos de no máximo 72 caracteres
@@ -90,8 +92,9 @@ para criar um pull request, utilize o exemplo abaixo:
 
 ## Referências
 
-> Metodologias ágeis - <a href="https://www.ivoryit.com.br/2022/05/06/metodologias-de-desenvolvimento-de-software-conheca-as-principais/">www.ivoryit.com.br/</a>
-> Devops - <a href="https://www.redhat.com/pt-br/topics/devops">www.redhat.com/pt-br</a>
+> Metodologias ágeis. Disponível no [link](https://www.ivoryit.com.br/2022/05/06/metodologias-de-desenvolvimento-de-software-conheca-as-principais/).
+
+>Devops. Disponível no [link](https://www.redhat.com/pt-br/topics/devops).
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
