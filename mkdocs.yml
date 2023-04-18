@@ -39,7 +39,7 @@ theme:
       primary: dark blue
       accent: amber
       toggle:
-        icon: material/weather-sunny
+        icon: material/lightbulb
         name: Modo Claro
     
     - media: "(prefers-color-scheme: dark)"
@@ -47,7 +47,7 @@ theme:
       primary: blue
       accent: yellow
       toggle:
-        icon: material/weather-night
+        icon: material/lightbulb-outline
         name: Modo Escuro
 
 nav:
