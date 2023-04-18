@@ -53,10 +53,11 @@ theme:
 nav:
   - Home: index.md
   - Planejamento: 
-    - Aplicativo escolhido: Planejamento/aplicativo_escolhido.md
+    - Aplicativo Escolhido: Planejamento/aplicativo_escolhido.md
     - Metodologia: Planejamento/metodologias.md
     - Ferramentas: Planejamento/ferramentas.md
     - Cronograma: Planejamento/cronograma.md
+    - Cronograma Realizado: Planejamento/cronograma_realizado.md
     - Heatmap: Planejamento/heatmap.md
   - Rastreabilidade:
     - Pré-Rastreabilidade:
