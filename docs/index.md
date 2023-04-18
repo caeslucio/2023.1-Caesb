@@ -4,12 +4,12 @@
 
 
 
-## A disciplina
+## A Disciplina
 
 Esse projeto é dedicado a disciplina de Requisitos de Software  da Universidade De Brasilia (UNB), e será realizados por estudantes de Engenharia de Software. Sendo assim, o objetivo principal desse projeto será a análise de um aplicativo, levando em consideração as suas funcionalidades, restrições, e qualidades, de forma que seja feita a documentação desse aplicativo conforme o aprendido na matéria.
 
 
-## A aplicação
+## A Aplicação
 
 O aplivativo da CAESB (Companhia de Saneamento Ambiental do Distritu Federal) foi criado com o objetivo de se ter praticidade, permitindo que o usuário tenha acesso a diversos recursos, como:
 
@@ -27,7 +27,7 @@ A paritr do momento que o usuário se conecta, também é possível ter acesso a
 
 
 
-## Por que a Caesb
+## Por Que a Caesb ?
 
 Após a seleção individual de cada integrante, o grupo decidiu que o aplicativo seria o da Caesb a partir dos seguintes critérios:
 
