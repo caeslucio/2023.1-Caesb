@@ -113,6 +113,10 @@
 
 <p><center>Tabela 7: Entrega 6 (Fonte: autor, 2023).</center></p>
 
+## Referências
+
+> Análise do site Lichess. Disponível no [link](https://requisitos-de-software.github.io/2022.2-Lichess/).
+
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
