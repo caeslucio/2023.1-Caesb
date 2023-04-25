@@ -69,6 +69,7 @@ nav:
     - Atas/Reuniao03.md
   - Guia: 
     - Guia/Mkdocs.md
+    - Guia/AdicionandoIcones.md
 
 markdown_extensions:
   - pymdownx.emoji:

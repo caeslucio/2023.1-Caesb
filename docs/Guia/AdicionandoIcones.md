@@ -1,4 +1,4 @@
-# Ícones Personalizados ao MKDocs
+# Ícones Personalizados
 
 <h4>Nesse projeto, estamos utilizando a extensão Material do MKDocs que possui mais de 8,000 ícones prontos para uso. Porém, estarei tratando nesta página acerca da adição de ícones foras dos já presentes nas extensões utilizadas.</h4>
 
@@ -6,7 +6,8 @@
 
 Para adicionar ícones próprios, é necessário, primeiramente configurar a pasta que irá o contê-lo e os seus demais ícones personalizados:
 1. No mesmo diretório que contém o arquivo **mkdocs.yml**, adicione o arquivo svg do seu ícone criando a seguinte sequência de pastas: "`overrides ➔ .icons ➔ custom-icons`". A Figura 1, ilustra a estrutura em que seu diretório deve estar após a adição do ícone.
-<p><center><img alt="Estrutura das Pastas" src="../assets/imagens/EstruturaPastas.png"></img></center></p>
+
+<center>![](../assets/imagens/EstruturaPastas.png)</center>
 
 <p><center> Figura 1: Estrutura das Pastas. (Fonte: Autor, 2023).</center></p>
 
