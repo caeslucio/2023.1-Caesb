@@ -1,11 +1,11 @@
-# Adicionando Ícones Personalizados ao MKDocs
+# Ícones Personalizados ao MKDocs
 
 <h4>Nesse projeto, estamos utilizando a extensão Material do MKDocs que possui mais de 8,000 ícones prontos para uso. Porém, estarei tratando nesta página acerca da adição de ícones foras dos já presentes nas extensões utilizadas.</h4>
 
-## Passo a Passo
+## Preparando o Ambiente
 
-Para adicionar ícones próprios, é necessário que os seguintes passos sejam realizados:
-1. No mesmo diretório que contém o arquivo **mkdocs.yml**, adicione o arquivo svg do seu ícone criando a seguinte sequência de pastas: "overrides ➔ .icons ➔ \<nome do seu arquivo\>.svg". A Figura 1 ilustra a estrutura em que seu diretório deve estar após a adição do ícone.
+Para adicionar ícones próprios, é necessário, primeiramente configurar a pasta que irá o contê-lo e os seus demais ícones personalizados:
+1. No mesmo diretório que contém o arquivo **mkdocs.yml**, adicione o arquivo svg do seu ícone criando a seguinte sequência de pastas: "`overrides ➔ .icons ➔ custom-icons`". A Figura 1, ilustra a estrutura em que seu diretório deve estar após a adição do ícone.
 <p><center><img alt="Estrutura das Pastas" src="../assets/imagens/EstruturaPastas.png"></img></center></p>
 
 <p><center> Figura 1: Estrutura das Pastas. (Fonte: Autor, 2023).</center></p>
@@ -26,6 +26,14 @@ markdown_extensions:
 custom_dir: overrides
 ```
 
+## Adicionando os Ícones
+
+Após adicionar a referência a pasta **overrides**, basta adicionar seu icone a pasta **custom-icons** dentro te **overrides/.icons**, e referenciá-lo. Há duas formas de adicionar o seu ícone:
+   1. No arquivo de configuração:
+      - `icon: custom-icons/<nome-do-seu-icone>`
+   2. Ou, em meio ao aquivo md:
+      - `:custom-icons-<nome-do-seu-icone>:`
+
 
 # Referências
 
@@ -36,4 +44,4 @@ custom_dir: overrides
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 25/04/2023 |        25/04/2023        |  1.0   | Criação do documento | [Pedro](https://github.com/pedrobarbosaocb) | [Carla](https://github.com/ccarlaa) |
+| 25/04/2023 |        25/04/2023        |  1.0   | Guia de Ícones Personalizados | [Pedro](https://github.com/pedrobarbosaocb) | [Carla](https://github.com/ccarlaa) |
