@@ -10,9 +10,9 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
-| <img src="../assets/imagens/logo-ferramentas/github-icon.png" width="80px"/> | Github [[1]](https://github.com) | Software de versionamento de documentos que também atua como repositório para armazenar os arquivos produzidos.  |
+| <img src="../assets/imagens/logo-ferramentas/github-icon.png" width="80px"/> | Github [[1]](https://docs.github.com/en/get-started/quickstart/hello-world) | Software de versionamento de documentos que também atua como repositório para armazenar os arquivos produzidos.  |
 | <img src="../assets/imagens/logo-ferramentas/telegram-icon.png" width="100px"/> | Telegram [[2]](https://telegram.org) | Software de mensagens para facilitar a comunicação constante e ágil de um grupo. |
-| <img src="../assets/imagens/logo-ferramentas/teams-icon.png" width="100px"/> |  Microsoft Teams [[3]](https://teams.microsoft.com) | Software de comunicação e colaboração projetada para conectar equipes e permitir a realização de videoconferências, compartilhamento de arquivos e de tela e gravação das reuniões.  |
+| <img src="../assets/imagens/logo-ferramentas/teams-icon.png" width="100px"/> |  Microsoft Teams [[3]](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software) | Software de comunicação e colaboração projetada para conectar equipes e permitir a realização de videoconferências, compartilhamento de arquivos e de tela e gravação das reuniões.  |
 | <img src="../assets/imagens/logo-ferramentas/vscode-icon.png" width="80px"/> | Visual Studio Code [[4]](https://code.visualstudio.com) | Software de manipulação de código-fonte e manipulação de arquivos. Oferece a possibilidade de personalização através de extensões, tornando-o uma ferramenta altamente flexível e adaptável. |
 | <img src="../assets/imagens/logo-ferramentas/youtube-icon.png" width="90px"/> | Youtube [[5]](https://youtube.com) | Software de hospedagem de vídeos online |
 | <img src="../assets/imagens/logo-ferramentas/lucidchart.png" width="80px"/> | Lucidchart [[6]](https://lucidchart.com) | Software de elaboração de diagramas. Oferece a possibilidade de colaboração em tempo real.  |
@@ -25,9 +25,9 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 
 ## Referências Bibliográficas
 
-[1] Ferramenta GitHub, disponível no [link](https://github.com). <br/>
+[1] Ferramenta GitHub, disponível no [link](https://docs.github.com/en/get-started/quickstart/hello-world). <br/>
 [2] Ferramenta Telegram, disponível no [link](https://telegram.org). <br/>
-[3] Ferramenta Microsoft Teams, disponível no [link](https://teams.microsoft.com). <br/>
+[3] Ferramenta Microsoft Teams, disponível no [link](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). <br/>
 [4] Ferramenta Visual Studio Code, disponível no [link](https://code.visualstudio.com). <br/>
 [5] Ferramenta Youtube, disponível no [link](https://youtube.com). <br/>
 [6] Ferramenta Lucid Chart, disponível no [link](https://lucidchart.com). <br/>
