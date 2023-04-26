@@ -8,7 +8,7 @@
 
 ## :droplet: Sobre
 
-Esse projeto é dedicado a disciplina de Requisitos de Software  da Universidade De Brasilia (UNB), e será realizados por estudantes de Engenharia de Software. Sendo assim, o objetivo principal desse projeto será a análise de um aplicativo, levando em consideração as suas funcionalidades, restrições, e qualidades, de forma que seja feita a documentação desse aplicativo conforme o aprendido na matéria.
+Esse projeto é dedicado a disciplina de Requisitos de Software  da Universidade De Brasilia (UNB), e será realizados por estudantes de Engenharia de Software. Sendo assim, o objetivo principal desse projeto será a análise de um aplicativo, levando em consideração as suas funcionalidades, restrições, e qualidades, de forma que seja feita a documentação desse aplicativo conforme o aprendido na matéria. Na figura 1 temos a logo da Caesb.
 
 
 ## :droplet: Aplicação
