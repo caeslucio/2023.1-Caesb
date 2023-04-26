@@ -43,3 +43,4 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 | 14/04/2023 |        14/04/2023        |  1.0   | Adição das ferramentas do projeto  | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
 | 16/04/2023 |        16/04/2023        |  2.0   | Adição de legenda da tabela | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
 | 26/04/2023 |        26/04/2023        |  3.0   | Ajuste do artefato de acordo com o feedback recebido | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
+| 26/04/2023 |        26/04/2023        |  4.0   | Ajuste de links | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
