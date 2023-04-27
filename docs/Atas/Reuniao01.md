@@ -1,21 +1,21 @@
 # 1ª Reunião
 
-## <text style="background-color: #81BD6C; color:white" >Data e local</text> 
+## <text style="background-color: blue; color:white" >Data e local</text> 
 - **09/04/2023 - 10h20 às 11h14**
 - Teams - [link da gravação](https://youtu.be/Vv4OlWBcNWI)
 
 
-## <text style="background-color: #81BD6C; color:white">Participantes</text> 
+## <text style="background-color: blue; color:white">Participantes</text> 
 - Carla Araujo
 - Daniel dos Santos
 - Guilherme Keyti
 - Paulo Victor 
 - Raquel Temoteo
 
-## <text style="background-color: #81BD6C; color:white">Assuntos abordados</text> 
+## <text style="background-color:blue; color:white">Assuntos abordados</text> 
 1. Organização inicial do grupo
 
-## <text style="background-color: #81BD6C; color:white">Discussões</text> 
+## <text style="background-color: blue; color:white">Discussões</text> 
 
 ## Escolha do aplicativo
 
@@ -33,7 +33,7 @@ Foi realizado o cronograma da etapa 1, com os responsaveis por cada artefato, da
 Foi decidido algumas das ferramnetas que utilizaremos no projeto (Figma , Teams , Youtube , VS code, Trello, Github, Telegram)
 
 
-## <text style="background-color: #81BD6C; color:white">Resumo</text> 
+## <text style="background-color: blue; color:white">Resumo</text> 
 Foi a analisado e conversado sobre o objetivo da disciplina, o que e como é preciso ser feito. Com base no plano de ensino da disciplina, discussões e analise dos grupos de semestres anteriores, definimos atividades inciais e padrões a serem seguidos. Além disso, definimos o melhor horário e o provável aplicativo a ser trabalhado na disciplina de requisitos de software.
 
 ## Histórico de Versão
