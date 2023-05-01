@@ -62,6 +62,13 @@ nav:
     - Heatmap: Planejamento/heatmap.md
   - Rastreabilidade:
     - Pré-Rastreabilidade: Pre-rastreabilidade/aplicativos_analisados.md
+  - Elicitação:
+    - Perfil do Usuário: Elicitacao/perfil_usuario.md
+    - Personas: Elicitacao/personas.md
+    - Questionário: Elicitacao/questionario.md
+    - Introspecção: Elicitacao/introspeccao.md
+    - Storytelling: Elicitacao/storytelling.md
+    - Elicitação: Elicitacao/elicitacao-FTF.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md
@@ -69,12 +76,6 @@ nav:
   - Guia: 
     - Guia/Mkdocs.md
     - Guia/AdicionandoIcones.md
-  - Elicitação:
-    - Elicitacao/perfil_usuario.md
-    - Elicitacao/personas.md
-    - Elicitacao/questionario.md
-    - Elicitacao/questionario.md
-    - Elicitacao/elicitacao-FTF.md
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
