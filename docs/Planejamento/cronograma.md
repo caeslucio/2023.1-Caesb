@@ -128,9 +128,6 @@
 > Análise do site Lichess. Disponível no [link](https://requisitos-de-software.github.io/2022.2-Lichess/).
 
 ## Histórico de Versão
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
-| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 15/04/2023 |        15/04/2023        |  1.0   | Criação do documento | [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS) |
 
 | Data       | Data Prevista de Revisão | Versão | Descrição              | Autor         | Revisor                    |
 |------------|--------------------------|--------|------------------------|---------------|----------------------------|
