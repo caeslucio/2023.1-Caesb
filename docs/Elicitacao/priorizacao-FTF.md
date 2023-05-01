@@ -14,7 +14,7 @@ A técnica do FTF consiste basicamente em:
 4. **Refinar a priorização conforme necessário:** A priorização dos requisitos pode mudar ao longo do tempo, por isso é importante revisar e refinar a priorização conforme o projeto avança.
 
 
-A priorização foi realizada com a análise dos requisitos elicitados pelos métodos de [questionário](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/) e [introspecção](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/introspeccao). E pode ser analisada no Iframe 1, como forma de auxiliar o entendimento acompanhe a Legenda Iframe 1.
+A priorização foi realizada com a análise dos requisitos elicitados pelos métodos de [questionário](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/questionario/) e [introspecção](https://requisitos-de-software.github.io/2023.1-Caesb/Elicitacao/introspeccao). E pode ser analisada no Iframe 1, como forma de auxiliar o entendimento acompanhe a Legenda - Iframe 1.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vShz1C17Dm7EovR5B8yPn-27qDseKO1yYnNFOtmSTN3poSaEmyaHRzTXM78jlE9kgvdbEEJYV_4RKGZ/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="980" height="1380" frameborder="0"></iframe>
 
@@ -24,7 +24,7 @@ A priorização foi realizada com a análise dos requisitos elicitados pelos mé
     <table>
     <tr>
         <td><b>Legenda</b></td>
-        <td></td>
+        <td><b>Descrição</b></td>
     </tr>
     <tr>
         <td><b>Q</b></td>
@@ -47,7 +47,7 @@ A priorização foi realizada com a análise dos requisitos elicitados pelos mé
         <td>Baixa prioridade</td>
     </tr>
     </table>
-    <p>Tabela 1 - Legenda. Fonte: Autores</p>
+    <p>Legenda - Iframe 1. Fonte: Autores</p>
 </div>
 
 ## Referências
