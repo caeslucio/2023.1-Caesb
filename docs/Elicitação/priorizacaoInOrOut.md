@@ -26,11 +26,10 @@ A tabela 1 apresenta os requisitos identificados e a respectiva priorização "I
 | RF14 | O usuário deve poder editar o próprio perfil  | Q4 | Sim
 | RF15 | O usuário deve ser notificado sobre falta de água em sua região    | Q5 | Sim
 | RF16 | O usuário deve poder acessar sua conta por meio de sua impressão digital previamente cadastrada  | Q6 | Sim
-| RF17 | O usuário deve poder acessar sua conta por meio de sua impressão digital previamente cadastrada  | Q7 | Sim
-| RF18 | O usuário deve possuir uma forma de pagamento por cartão que seja automática  | Q8 | Sim
-| RF19 | O aplicativo deve apresentar uma divisão clara de seções  | Q9 | Sim
-| RF20 | O aplicativo deve apresentar quando ocorrerá uma próxima leitura  | Q11 | Sim
-| RF21 | O aplicativo deve possibilitar utilizar cadastros de outras casas, podendo haver, por exemplo, um sistema de troca de contas  | Q13 | Sim
+| RF17 | O usuário deve possuir uma forma de pagamento por cartão que seja automática  | Q7 | Sim
+| RF18 | O aplicativo deve apresentar uma divisão clara de seções  | Q8 | Sim
+| RF19 | O aplicativo deve apresentar quando ocorrerá uma próxima leitura  | Q11 | Sim
+| RF20 | O aplicativo deve possibilitar utilizar cadastros de outras casas, podendo haver, por exemplo, um sistema de troca de contas  | Q13 | Sim
 <div style="text-align: center">
 <p> Tabela 1: In or Out (Fonte: autor, 2023).</p>
 </div>
