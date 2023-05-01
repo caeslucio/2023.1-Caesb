@@ -10,6 +10,7 @@ A escolha do método de introspecção se deve ao fato de estarmos na fase inici
 
 A seguir, na tabela 1, é possível observar os requisitos elicitados por introspecção.
 
+
 - INT: Requisitos de <span>Introspecção</span>
 - RF: Requisitos <span>Funcionais</span>
 - RNF: Requisitos não <span>Funcionais</span>
