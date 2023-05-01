@@ -85,7 +85,7 @@ Com essas caracteŕisticas definidas, se motou as três personas.
 |        Localização        | Distrito Federal, Brasília |
 |            Foto           |![](../assets/personas/joa.png )</br>Imagem 3 - João da Silva Pereira. (Fonte: This Person Does Not Exist)|
 |           Status          |         Antipersona        |
-|         Objetivos         |João deseja ser produtivo nos seus estudos da faculdade.</br>Ele quer ter uma alimentação mais saudável.</br>Ele deseja praticar mais seu esporte favorito, o Futebol.</br>João deseja subir de cargo na empresa do seu pai onde trabalha como auxiliar de técnico em informática|
+|         Objetivos         |João deseja ser produtivo nos seus estudos quando entrar na faculdade.</br>Ele quer ter uma alimentação mais saudável.</br>Ele deseja praticar mais seu esporte favorito, o Futebol.</br>João deseja subir de cargo na empresa do seu pai onde trabalha como auxiliar de técnico em informática|
 |        Habilidades        |João tem conhecimentos avançados do pacote office.</br>Ele tem conhecimento em algumas linguagens de programação.</br>João possui inglês básico devido ao seu contato com documentações de linguagens de programação.|
 |          Tarefas          |João tem como tarefa principal aprender mais trabalhando e ser promovido.</br>Ele deseja avançar no mundo da informática e para isso ele quer entrar na faculdade.</br>Em casa suas tarefas são sempre lavar a louça e limpar a casa.|
 |      Relacionamentos      |Pais: Cesar(43 anos,  Empresário do ramo de Edifícios), Claudia(45 anos, Dona de casa)</br>Grupo do Trabalho: Pessoas que ele conheceu no trabalho com quem às vezes sai.</br>Namorada: Daniela(21 anos, Pedicure)|
