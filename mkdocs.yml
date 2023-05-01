@@ -61,8 +61,7 @@ nav:
     - Cronograma Realizado: Planejamento/cronograma_realizado.md
     - Heatmap: Planejamento/heatmap.md
   - Rastreabilidade:
-    - Pré-Rastreabilidade:
-      - Aplicativos Analisados: Rastreabilidade\pre-rastreabilidade\Aplicativos Analisados\Aplicativos Analisados.md
+    - Pré-Rastreabilidade: Pre-rastreabilidade/aplicativos_analisados.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md
@@ -70,6 +69,9 @@ nav:
   - Guia: 
     - Guia/Mkdocs.md
     - Guia/AdicionandoIcones.md
+  - Elicitação:
+    - Elicitacao/perfil_usuario.md
+    - Elicitacao/personas.md
 
 markdown_extensions:
   - pymdownx.emoji:
