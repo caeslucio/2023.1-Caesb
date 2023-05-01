@@ -72,6 +72,7 @@ nav:
   - Elicitação:
     - Elicitacao/perfil_usuario.md
     - Elicitacao/personas.md
+    - Elicitação/questionario.md
 
 markdown_extensions:
   - pymdownx.emoji:
