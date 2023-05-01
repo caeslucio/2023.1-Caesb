@@ -12,7 +12,10 @@ Isso faz com que não se tenha um usuário elástico, a partir do momento que um
 
 ## Elenco de Personas
 
-Tendo em vista a fala de Courage e Baxter sobre a quantidade do elenco de personas, foram definidos que o projeto possuiria uma quantidade de 3 personas, sendo 2 primária e 1 antipersona. Essa quantidade foi escolhida para se ter personas significativas, memoráveis e que representasse bem os usuários e suas características. O objetivo é que se tenha bem em mente para quem o software foi projetado e para quem não foi, por isso, para a construção dessas personas, foram baseadas nos dados levantados pelos usuários, através de um formulário online.
+Tendo em vista a fala de Courage e Baxter sobre a quantidade do elenco de personas, foram definidos que o projeto possuiria uma quantidade de 3 personas, sendo 2 primária e 1 antipersona. Essa quantidade foi escolhida para se ter personas significativas, memoráveis e que representasse bem os usuários e suas características, poís no perfil de usuário foram identificados dois  tipos de usuários principais, aqueles que usam o aplciativo para benefício próprio e aqueles que usam para ajudar outras pessoas, como também aqueles que não o utilizam. 
+
+O objetivo das Personas é que se tenha bem em mente para quem o software foi projetado e para quem não foi, por isso, para a construção dessas personas, foram baseadas nos dados levantados pelos usuários, através de um formulário online.
+
 Para gerar cada imagem de persona foi usada a ferramenta This Person Doest Not Exist.
 
 Elas podem ser vistas na seguinte ordem:
