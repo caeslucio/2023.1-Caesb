@@ -3,7 +3,7 @@ Storytelling É uma técnica narrativa que envolve a criação e compartilhament
 
 ## Metodologia
 
-Dessa forma, a partir da definição das personas, que podem ser encontrado [nessa página](https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Elicitacao/personas.md), foram criadas narrativas de forma a observar tarefas, objetivos e experiências dentro das histórias criadas.
+Dessa forma, a partir da definição das personas, que pode ser encontrado [nessa página](https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Elicitacao/personas.md), foram criadas narrativas de forma a observar tarefas, objetivos e experiências dentro das histórias criadas.
 
 # Narrativas
 
