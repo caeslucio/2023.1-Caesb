@@ -10,6 +10,11 @@ A escolha do método de introspecção se deve ao fato de estarmos na fase inici
 
 A seguir, na tabela 1, é possível observar os requisitos elicitados por introspecção.
 
+
+- INT: Requisitos de <span>Introspecção</span>
+- RF: Requisitos <span>Funcionais</span>
+- RNF: Requisitos não <span>Funcionais</span>
+
 | Identificador | Requisito | Tipo |  Implementado |
 | :----------: |:----------:| :------: | :-----------: |
 | INT01 | O aplicativo deve permitir que os usuários se registrem para criar uma conta        | RF  |   Sim  |
