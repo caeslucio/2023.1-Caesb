@@ -30,6 +30,9 @@ A tabela 1 apresenta os requisitos identificados e a respectiva priorização "I
 | RF18 | O aplicativo deve apresentar uma divisão clara de seções  | Q8 | Sim
 | RF19 | O aplicativo deve apresentar quando ocorrerá uma próxima leitura  | Q11 | Sim
 | RF20 | O aplicativo deve possibilitar utilizar cadastros de outras casas, podendo haver, por exemplo, um sistema de troca de contas  | Q13 | Sim
+| RF21 | O aplicativo deve permitir que o usuário copie o código do boleto  | Q05 | Sim
+| RF22 | O usuário deve poder solicitar serviço (CRU)  | Q09 | Sim
+| RF23 | O usuário deve poder informar sobre vazamentos  | Q17 | Sim
 <div style="text-align: center">
 <p> Tabela 1: In or Out (Fonte: autor, 2023).</p>
 </div>
@@ -43,3 +46,4 @@ A tabela 1 apresenta os requisitos identificados e a respectiva priorização "I
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 30/04/2023 |        30/04/2023        |  1.0   | Criação do documento   | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
+| 01/05/2023 |        01/05/2023        |  2.0   | Adição de novos requisitos   | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
