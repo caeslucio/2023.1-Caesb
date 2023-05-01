@@ -71,6 +71,7 @@ nav:
     - Guia/AdicionandoIcones.md
   - Elicitação:
     - Elicitacao/perfil_usuario.md
+    - Elicitacao/personas.md
 
 markdown_extensions:
   - pymdownx.emoji:
