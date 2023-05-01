@@ -72,8 +72,9 @@ nav:
   - Elicitação:
     - Elicitacao/perfil_usuario.md
     - Elicitacao/personas.md
-    - Elicitação/questionario.md
-
+    - Elicitacao/questionario.md
+    - Elicitacao/questionario.md
+    - Elicitacao/elicitacao-FTF.md
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
