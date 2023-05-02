@@ -17,4 +17,27 @@
 | Gravação                              | Teams (remoto) | 16/04                      | Daniel          | Todos         | 16/04              | Daniel    |
 | Edição do vídeo                       | Teams (remoto) | 16/04                      | Pedro           | -             | 16/04              | Caetano   |
 
-<p><center>Tabela 1: Entrega 1 (Fonte: autor, 2023).</center></p>
+## Entrega 2 
+
+<h4>Elicitação de Requisitos</h4>
+
+| Atividade                 | Local | Período de desenvolvimento | Responsáveis        | Participantes | Período de Revisão | Revisores       |
+|---------------------------|-------|----------------------------|---------------------|---------------|--------------------|-----------------|
+| Correções da entrega 1    | Teams | 24/04 - 01/05              | Todos               | Todos         | 26/04              | Caetano e Pedro |
+| Perfil do usuário         | Teams | 26/04 - 30/04              | Carla e Daniel      | -             | 30/04              | Paulo           |
+| Personas                  | Teams | 29/04 - 01/05              | Carla e Daniel      | -             | 01/05              | Paulo           |
+| Elicitação (storytelling) | Teams | 30/04 - 01/05              | Paulo e Caetano     | -             | 28/04              | Daniel          |
+| Elicitação (Questionário) | Teams | 29/04 - 30/04              | Daniel e Pedro      | -             | 01/05              | Guilherme       |
+| Elicitação (Introspecção) | Teams | 30/04 - 01/05              | Guilherme e Paulo   | -             | 01/05              | Caetano         |
+| Priorização (In or Out)   | Teams | 30/04 - 01/05              | Caetano e Guilherme | -             | 30/04              | Raquel          |
+| Priorização (FTF)         | Teams | 29/04 - 01/05              | Raquel e Pedro      | -             | 01/05              | Carla           |
+| Gravação                  | Teams | 01/05                      | Paulo               | Todos         | 01/05              | Carla           |
+| Edição do vídeo           | -     | 01/05                      | Carla               | -             | 01/05              | Caetano         |
+
+
+<p><center>Tabela 2: Entrega 2 (Fonte: autor, 2023).</center></p>
+
+| Data       | Data Prevista de Revisão | Versão | Descrição              | Autor         | Revisor                    |
+|------------|--------------------------|--------|------------------------|---------------|----------------------------|
+| 15/04/2023 | 15/04/2023               | 1.0    | Criação do documento + cronograma da entrega 1  | [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS)         |
+| 01/05/2023 | 01/05/2023               | 2.0    | Cronograma da entrega 2 | [Carla](https://github.com/ccarlaa) | [Raquel](https://github.com/raqueleucaria) |
