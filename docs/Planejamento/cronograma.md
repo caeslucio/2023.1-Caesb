@@ -87,7 +87,7 @@
 | Atividade                             | Local          | Período de desenvolvimento | Responsáveis                       | Participantes | Período de revisão | Revisores                          |
 |---------------------------------------|----------------|----------------------------|------------------------------------|---------------|--------------------|------------------------------------|
 | Correções da entrega 4                | Teams (remoto) | 25/05 - 26/05              | Todos                              | Todos         | 27/05              | Guilherme e Pedro                  |
-| Verificação de requisitos (entrega 1) | Teams (remoto) | 24/05 - 02/06              | Pedro e Caetano e Raquel           | -             | 03/06              | Paulo e Guilherme e Carla e Raquel |
+| Verificação de requisitos (entrega 1) | Teams (remoto) | 24/05 - 02/06              | Pedro e Caetano e Daniel           | -             | 03/06              | Paulo e Guilherme e Carla e Raquel |
 | Verificação de requisitos (entrega 2) | Teams (remoto) | 24/05 - 02/06              | Paulo e Guilherme e Carla e Raquel | -             | 03/06              | Pedro e Caetano e Daniel           |
 | Gravação                              | Teams (remoto) | 04/06                      | Carla                              | Todos         | 04/06              | Pedro                              |
 | Edição de vídeo                       | Teams (remoto) | 05/06 - 06/06              | Pedro                              | -             | 06/06              | Guilherme                          |
