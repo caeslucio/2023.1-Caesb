@@ -30,7 +30,7 @@ A seguir, na tabela 1, é possível observar os requisitos elicitados por intros
 | INT11 | O aplicativo deve ser capaz de lidar com pelo menos 150.000 usuários simultâneos sem comprometer o desempenho ou a segurança  | RNF |   Sim  |
 | INT12 | O aplicativo deve ter uma taxa de disponibilidade de pelo menos 99% durante o horário comercial                  | RNF  |   Sim  |
 | INT13 | O aplicativo deve ter um procedimento de manutenção que permita que o tempo de inatividade seja limitado a no máximo 10 horas por mês. |RNF |   Sim  |
-| INT14 | O aplicativo deve seguir as diretrizes de acessibilidade da WACG 2.1 [[1]](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/), garantindo que seja acessível para pessoas com deficiência visual, auditiva ou física.         | RNF |   Sim  |
+| INT14 | O aplicativo deve seguir as diretrizes de acessibilidade da [WACG 2.1](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/), garantindo que seja acessível para pessoas com deficiência visual, auditiva ou física.         | RNF |   Não  |
 | INT15 |  O aplicativo deve permitir que os usuários escolham entre pelo menos 3 idiomas diferentes           | RNF  |   Não  |
 | INT16 |  O aplicativo deve ser atualizado frequentemente para garantir a correção de erros, melhorias de desempenho e novos recursos.         | RNF  |   Não  |
  INT16 |  O aplicativo deve funcionar perfeitamente em todos os dispositivos, incluindo computadores.         | RNF  |   Não  |
@@ -40,7 +40,7 @@ A seguir, na tabela 1, é possível observar os requisitos elicitados por intros
 
 
 ## Referências
-[1] Diretrizes de acessibilidade, disponível no [link](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/). <br/>
+> Diretrizes de acessibilidade, disponível no [link](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/). <br/>
 
 ## Histórico de Versão
 

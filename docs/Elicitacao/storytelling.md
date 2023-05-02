@@ -1,6 +1,9 @@
 # Introdução
 Storytelling É uma técnica narrativa que envolve a criação e compartilhamento de uma história com uma mensagem ou ideia a ser transmitida para o público. Na área de requisitos de software, essa técnica é utilizada para a elicitação de requisitos, realizada atráves da análise dos usuários
 
+## Motivo de escolha
+A elicitação de requisitos através do storytelling é uma boa escolha quando se deseja obter informações detalhadas sobre a experiência e perspectiva de um usuário ou cliente em relação a um produto ou serviço, e por esse motivo foi escolhida para esse projeto
+
 ## Metodologia
 
 Dessa forma, a partir da definição das personas, que pode ser encontrado [nessa página](https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/main/docs/Elicitacao/personas.md), foram criadas narrativas de forma a observar tarefas, objetivos e experiências dentro das histórias criadas.
@@ -46,7 +49,7 @@ João não utiliza o aplicativo da CAESB com frequência, tendo utilizado apenas
 
 # Requisitos elicitados
 
-Levando em consideração os storytellings supracitados, os requisitos elicitados serão apresentados a seguir
+Levando em consideração os storytellings supracitados, os requisitos elicitados serão apresentados  na tabela 1 a seguir
 
 
 | Identificador | Descrição                                                                          | Tipo |
