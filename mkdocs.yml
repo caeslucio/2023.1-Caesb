@@ -68,7 +68,8 @@ nav:
     - Questionário: Elicitacao/questionario.md
     - Introspecção: Elicitacao/introspeccao.md
     - Storytelling: Elicitacao/storytelling.md
-    - Priorização: Elicitacao/priorizacao-FTF.md
+    - First Things First: Elicitacao/priorizacao-FTF.md
+    - In or Out: Elicitacao/priorizacaoInOrOut.md
   - Atas:
     - Atas/Reuniao01.md
     - Atas/Reuniao02.md
@@ -76,6 +77,9 @@ nav:
   - Guia: 
     - Guia/Mkdocs.md
     - Guia/AdicionandoIcones.md
+  - Entregas: Apresentacoes/apresentacoes.md
+
+
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji

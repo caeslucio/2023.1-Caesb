@@ -35,6 +35,7 @@
 | Atividade                 | Local          | Período de desenvolvimento | Responsáveis        | Participantes | Período de revisão | Revisores       |
 |---------------------------|----------------|----------------------------|---------------------|---------------|--------------------|-----------------|
 | Correções da entrega 1    | Teams (remoto) | 24/04 - 25/04              | Todos               | Todos         | 26/04              | Caetano e Paulo |
+| Perfil do usuário    | Teams (remoto) | 24/04 - 25/04              | Carla e Daniel               | -         | 27/04              | Paulo |
 | Personas                  | Teams (remoto) | 24/04 - 27/04              | Carla e Daniel      | -             | 27/04              | Paulo           |
 | Elicitação (storytelling) | Teams (remoto) | 26/04 - 28/04              | Paulo e Caetano     | -             | 28/04              | Daniel          |
 | Elicitação (questionário) | Teams (remoto) | 26/04 - 28/04              | Daniel e Pedro      | -             | 28/04              | Guilherme       |
